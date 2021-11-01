@@ -1,4 +1,6 @@
+import "antd/dist/antd.css";
 import "./App.css";
+
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import Join from "./pages/Join/join";
